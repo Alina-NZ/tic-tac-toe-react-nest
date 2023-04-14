@@ -1,0 +1,9 @@
+.Board {
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    width: min-content;
+    height: min-content;
+    padding: 15px;
+    background-color: #213547;
+    gap: 15px;
+}
